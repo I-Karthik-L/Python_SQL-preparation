@@ -1,7 +1,7 @@
 # Python-preparation
 Documenting my Python learning journey through organized notes, practical exercises, and interview-focused coding practice.
 
-## 🐍 Python Preparation Series: Weeks 1-3 Overview
+## 🐍 Python Preparation Series: Weeks 1-5 Overview
 
 This repository contains a structured, day-by-day Python learning series designed to take you from fundamental syntax to advanced functional programming and file handling. Below is a breakdown of what is covered in the first three weeks of the curriculum:
 
