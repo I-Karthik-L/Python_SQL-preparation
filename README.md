@@ -24,6 +24,6 @@ This week introduces advanced, "Pythonic" techniques to write cleaner, more effi
 
 ### 📕 Week 4: Advanced Concepts - Regex, OOP, and Exceptions
 This week explores powerful text processing, robust architectural design using Object-Oriented principles, and safe execution through error management.
-* **Day 17 (Regular Expressions):** Introduction to the `re` module for pattern matching and text manipulation using methods like `match()`, `search()`, `findall()`, and `sub()`, alongside metacharacters[cite: 10].
-* **Day 18 (Object-Oriented Programming):** Mastering classes, objects, and the `__init__` constructor, while diving deep into the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism[cite: 10].
-* **Day 19 (Error Handling):** Building fault-tolerant software using `try`, `except`, `else`, and `finally` blocks to gracefully catch and handle multiple specific exceptions[cite: 10].
+* **Day 17 (Regular Expressions):** Introduction to the `re` module for pattern matching and text manipulation using methods like `match()`, `search()`, `findall()`, and `sub()`, alongside metacharacters.
+* **Day 18 (Object-Oriented Programming):** Mastering classes, objects, and the `__init__` constructor, while diving deep into the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism.
+* **Day 19 (Error Handling):** Building fault-tolerant software using `try`, `except`, `else`, and `finally` blocks to gracefully catch and handle multiple specific exceptions.
