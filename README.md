@@ -30,5 +30,5 @@ This week explores powerful text processing, robust architectural design using O
 
 ### 📊 Week 5: Data Science Foundations - NumPy & Pandas
 This week transitions into data analysis, focusing on the industry-standard libraries used for numerical computing and tabular data manipulation.
-* **Day 20 - 21 (NumPy):** Working with multi-dimensional arrays, mathematical functions, matrix rotation, vectorization, array reshaping, and Boolean indexing[cite: 11]. 
-* **Day 22 - 24 (Pandas):** Deep dive into Series and DataFrames. Topics include slicing, handling missing data (NaNs), complex grouping and aggregation, DataFrame joins (Inner/Left), memory optimization via data type downcasting, and time series operations like rolling averages and resampling[cite: 11].
+* **Day 20 - 21 (NumPy):** Working with multi-dimensional arrays, mathematical functions, matrix rotation, vectorization, array reshaping, and Boolean indexing. 
+* **Day 22 - 24 (Pandas):** Deep dive into Series and DataFrames. Topics include slicing, handling missing data (NaNs), complex grouping and aggregation, DataFrame joins (Inner/Left), memory optimization via data type downcasting, and time series operations like rolling averages and resampling.
