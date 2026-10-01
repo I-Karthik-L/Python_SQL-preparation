@@ -3,7 +3,7 @@ Documenting my Python learning journey through organized notes, practical exerci
 
 ## 🐍 Python Preparation Series: Weeks 1-5 Overview
 
-This repository contains a structured, day-by-day Python learning series designed to take you from fundamental syntax to advanced functional programming, object-oriented design, and file handling. Below is a breakdown of what is covered in the curriculum:
+This repository contains a structured, day-by-day Python learning series designed to take you from fundamental syntax to advanced data science libraries. Below is a breakdown of what is covered in the curriculum:
 
 ### 📘 Week 1: Python Fundamentals
 This week establishes the core building blocks of Python programming.
@@ -27,3 +27,8 @@ This week explores powerful text processing, robust architectural design using O
 * **Day 17 (Regular Expressions):** Introduction to the `re` module for pattern matching and text manipulation using methods like `match()`, `search()`, `findall()`, and `sub()`, alongside metacharacters.
 * **Day 18 (Object-Oriented Programming):** Mastering classes, objects, and the `__init__` constructor, while diving deep into the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism.
 * **Day 19 (Error Handling):** Building fault-tolerant software using `try`, `except`, `else`, and `finally` blocks to gracefully catch and handle multiple specific exceptions.
+
+### 📊 Week 5: Data Science Foundations - NumPy & Pandas
+This week transitions into data analysis, focusing on the industry-standard libraries used for numerical computing and tabular data manipulation.
+* **Day 20 - 21 (NumPy):** Working with multi-dimensional arrays, mathematical functions, matrix rotation, vectorization, array reshaping, and Boolean indexing[cite: 11]. 
+* **Day 22 - 24 (Pandas):** Deep dive into Series and DataFrames. Topics include slicing, handling missing data (NaNs), complex grouping and aggregation, DataFrame joins (Inner/Left), memory optimization via data type downcasting, and time series operations like rolling averages and resampling[cite: 11].
